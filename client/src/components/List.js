@@ -1,5 +1,5 @@
-import React form 'react'
-const LIst = (props)=>{
+import React from 'react'
+const List = (props)=>{
 
     return(
         <div className="container"><li class="list-group-item">

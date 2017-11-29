@@ -1,7 +1,7 @@
 import React from 'react'
 import API from "../utils/API";
 import { Input, TextArea, FormBtn } from "../components/Form";
-class UL extends React.Component{
+class Ul extends React.Component{
 
     // Save to database
     handleSave = index => {

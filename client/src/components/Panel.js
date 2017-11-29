@@ -1,5 +1,5 @@
 import React from 'react'
-import UL from "../components/UL";
+import UL from "../components/Ul";
 const Panel = (props)=>{
     let article = props.article;
     let found = props.found;
