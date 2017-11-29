@@ -1,5 +1,2 @@
-# dependencies
-node_modules/
-
-# project files
-.idea
+node_modules
+.DS_Store
